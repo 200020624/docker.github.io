@@ -27,7 +27,7 @@ Toolbox includes these Docker tools:
 
 * Kitematic, the Docker GUI
 
-* a shell preconfigured for a Docker command-line environment
+* A shell preconfigured for a Docker command-line environment
 
 * Oracle VirtualBox
 
